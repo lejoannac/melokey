@@ -1,2 +1,2 @@
 # melokey
-A midi keyboard design with a purpose of educating neurodivergent students
+A midi keyboard designed with the purpose of educating neurodivergent students and providing them with a pathway to music 
